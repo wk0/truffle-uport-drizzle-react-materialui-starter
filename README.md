@@ -1,9 +1,8 @@
 # truffle-uport-drizzle-react-materialui-starter
 
-This repo started as a truffle box:
-*Drizzle Truffle Box: https://github.com/truffle-box/drizzle-box 
-mashed up with 
-*Uport Box http://truffleframework.com/boxes/react-uport
+This repo started as a two truffle boxes:
+* Drizzle Truffle Box: https://github.com/truffle-box/drizzle-box 
+* Uport Box http://truffleframework.com/boxes/react-uport
 
 ## Environmental Variables
 You need to set infuraKey, uportNudgeClientID, and uportNudgeSignerKey (checkout config/env.js)
