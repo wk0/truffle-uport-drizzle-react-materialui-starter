@@ -25,7 +25,7 @@ I'm using the ganache-1.0.2 AppImage from http://truffleframework.com/ganache/
     ```
     truffle migrate --network ganache_gui
     ```
-    And if you want to add a network, like main or a test net, add it to truffle.js as a network. Refer to http://truffleframework.com/docs/advanced/configuration. Truffle-config.js is for Windows compatibility, but I added ganache_gui to both to be safe.
+    And if you want to add a network, like main or a test net, add it to truffle.js as a network. Refer to http://truffleframework.com/docs/advanced/configuration. Truffle-config.js is for Windows compatibility.
 
 3. In your browser of choice (I'm using Firefox), open metamask and add an RPC network. Then add whichever accounts you'll need via the import account functionality. 
 
