@@ -4,7 +4,7 @@ This repo started as a truffle box:
 Drizzle Truffle Box: https://github.com/truffle-box/drizzle-box mashed up with the uport-box http://truffleframework.com/boxes/react-uport
 
 ## Environmental Variables
-You need to set infuraKey, uportNudgeClientID and uportNudgeSignerKey (checkout config/env.js)
+You need to set infuraKey, uportNudgeClientID, and uportNudgeSignerKey (checkout config/env.js)
 
 ## Installation 
 1. Make sure you have Truffle and Ganace CLI (I'm using the GUI)
